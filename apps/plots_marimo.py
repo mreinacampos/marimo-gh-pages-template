@@ -10,7 +10,6 @@ __generated_with = "0.19.7"
 app = marimo.App(
     width="full",
     app_title="ARSENAL - Formation of stellar populations",
-    layout_file="layouts/plots_marimo.grid.json",
 )
 
 
